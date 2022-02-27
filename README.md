@@ -1,5 +1,5 @@
-# Portfolio Ellen van Duikeren
-
-## Description
-I have made a portfolio to show you the websites I have made. I am learning to become a frontend engineer.
-
+- 👋 Hi, I’m @Ellen-van-Duikeren
+- 👀 I’m interested in front-end webdevelopment
+- 🌱 I’m currently learning on Codecademy
+- 📫 How to reach me: discord Ellen222#1877
+- 👋 I'm building my portfolio here
